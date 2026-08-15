@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-# Hey, I'm ROs 👋
+# Hey, I'm Danush 👋
 
 **Python Developer · Django · FastAPI · Ubuntu Enthusiast**
 
